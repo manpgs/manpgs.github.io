@@ -1,1 +1,2 @@
-## [mac](https://manp.gs/mac)
+- [macOS](/mac)
+- [POSIX](/posix)
